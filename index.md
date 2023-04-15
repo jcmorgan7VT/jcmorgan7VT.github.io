@@ -2,6 +2,7 @@
 layout: default
 ---
 
+My research is focused on understanding controls on headwater stream intermittency. I am interested in why and where headwater streams cease or resume flowing.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
