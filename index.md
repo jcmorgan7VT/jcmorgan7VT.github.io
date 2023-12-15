@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![test](https://github.com/jcmorgan7VT/jcmorgan7VT.github.io/blob/master/assets/images/blacktocat.png)
+![test](https://github.com/jcmorgan7VT/jcmorgan7VT.github.io/assets/images/drystreams.png)
 
 
 # Research Interets
