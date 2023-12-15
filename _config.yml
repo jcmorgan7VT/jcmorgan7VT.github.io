@@ -1,6 +1,6 @@
 title: John Morgan
 description: PhD Student at Virginia Tech.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
