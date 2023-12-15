@@ -2,6 +2,9 @@
 layout: default
 ---
 
+![test](https://github.com/jcmorgan7VT/jcmorgan7VT.github.io/blob/master/assets/images/blacktocat.png)
+
+
 # Research Interets
 My research is focused on understanding controls on headwater stream intermittency. I am interested in why and where headwater streams cease or resume flowing.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
