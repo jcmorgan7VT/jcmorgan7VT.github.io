@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![test](https://github.com/jcmorgan7VT/jcmorgan7VT.github.io/blob/master/assets/images/drystreams.PNG)
+![stream](https://github.com/jcmorgan7VT/jcmorgan7VT.github.io/blob/master/assets/images/drystream.png)
 
 ## Bio
 My name is John Morgan, and I am a PhD student at Virginia Tech who studies headwater streams, and what controls intermittency of headwater streams. Most of my current work is based out of the Hubbard Brook Experimental Forest in the White Mountains of New Hampshire.
