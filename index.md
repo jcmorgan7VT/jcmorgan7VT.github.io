@@ -16,7 +16,7 @@ My name is John Morgan, and I am a PhD student at Virginia Tech who studies head
 My research is focused on understanding controls on headwater stream intermittency. I am interested in why and where headwater streams cease or resume flowing.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Check out my art here](./another-page.html).
+[Check out my art here](./art-page.html).
 
 There should be whitespace between paragraphs.
 
