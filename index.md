@@ -4,12 +4,19 @@ layout: default
 
 ![test](https://github.com/jcmorgan7VT/jcmorgan7VT.github.io/blob/master/assets/images/drystreams.PNG)
 
+## Bio
+My name is John Morgan, and I am a PhD student at Virginia Tech who studies headwater streams, and what controls intermittency of headwater streams. Most of my current work is based out of the Hubbard Brook Experimental Forest in the White Mountains of New Hampshire.
 
-# Research Interets
+## Research Interests
+*   Modeling headwater stream intermittency in humid systems.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
 My research is focused on understanding controls on headwater stream intermittency. I am interested in why and where headwater streams cease or resume flowing.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Check out my art here](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -44,9 +51,7 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   
 
 ##### Header 5
 
